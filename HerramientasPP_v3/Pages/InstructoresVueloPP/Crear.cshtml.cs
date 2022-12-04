@@ -17,10 +17,19 @@ namespace PrimerParcial.Pages
         public void OnGet()
         {
         }
-        public void OnPost()
-        {
-            _prsrv.Agregar(InstructorIng);
-        }
+        // public void OnPost()
+        // {
+        //     _prsrv.Agregar(InstructorIng);
+        // }
+        public IActionResult OnPost(){
+            if(ModelState.IsValid){
+                _prsrv.Agregar(InstructorIng);
+                return RedirectToPage("Listado");
+            }
+           else{
+            return Page();
+           }
+        }   
         
     }
 }
