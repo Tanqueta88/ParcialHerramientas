@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+//esta es una prueba para trakear los cambios en GIT
 
 namespace PrimerParcial.Models
 {  
