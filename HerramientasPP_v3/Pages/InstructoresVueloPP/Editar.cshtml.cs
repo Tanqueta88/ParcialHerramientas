@@ -12,8 +12,8 @@ namespace PrimerParcial.Pages.InstructoresVueloPP
         public Instructor InstructorEdit {get;set;}
 
         private IInstructorServicio _instServicio;
-        public EditarModel(IInstructorServicio prosrv){
-            _instServicio=prosrv;
+        public EditarModel(IInstructorServicio instrv){
+            _instServicio=instrv;
         }
         public void OnGet(int id)
         {
