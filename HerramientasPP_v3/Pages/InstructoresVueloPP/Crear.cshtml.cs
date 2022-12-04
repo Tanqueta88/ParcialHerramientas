@@ -17,7 +17,7 @@ namespace PrimerParcial.Pages
         public void OnGet()
         {
         }
-        
+
         public IActionResult OnPost(){
             if(ModelState.IsValid){
                 _prsrv.Agregar(InstructorIng);
