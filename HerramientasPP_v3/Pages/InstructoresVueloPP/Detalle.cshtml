@@ -1,9 +1,10 @@
 ﻿@page
-@model ProyHerramientas.Pages.Profesores.DetalleModel
+@model ProyHerramientas.Pages.Instructores.DetalleModel
 @functions{
     void MostrarFechaExpedicion(DateTime fec){
         <span class="date">@fec.ToString("dd MMMM yyyy")</span>
     }
+    
 }
 
 
@@ -22,11 +23,13 @@
                     <p class="card-text"><span class="font-weight-bold">Legajo:</span>
                         @Model.InstructorDetalle.LegajoVuelo</p>
                     <p class="card-text"><span class="font-weight-bold">T.R.A: </span> 
-                        @Model.InstructorDetalle.Experiencia</p>
+                        @Model.InstructorDetalle.Tra</p>
+                    @* <p class="card-text"><span class="font-weight-bold">Tipo de experiencia: </span> 
+                        @Model.InstructorDetalle.Hangar</p> *@
                     <p class="card-text"><span class="font-weight-bold">Hangar asignado: </span> 
-                        @Model.InstructorDetalle.Experiencia</p>
+                        @Model.InstructorDetalle.Hangar</p>
                     <p class="card-text"><span class="font-weight-bold">En Actividad: </span> 
-                        @Model.InstructorDetalle.Experiencia</p>
+                        @Model.InstructorDetalle.EnActividad</p>
                 </div>
             </div>
        </div>

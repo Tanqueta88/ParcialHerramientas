@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using PrimerParcial.Models;
 using PrimerParcial.Servicios;
 
-namespace ProyHerramientas.Pages.Profesores //ACA ESTA UN PROFESORES
+namespace ProyHerramientas.Pages.Instructores //ACA ESTA UN PROFESORES
 {
     public class DetalleModel : PageModel
     {

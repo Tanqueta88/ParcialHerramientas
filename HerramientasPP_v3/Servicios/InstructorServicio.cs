@@ -14,15 +14,14 @@ namespace PrimerParcial.Servicios
         public InstructorServicio(){
            ListaCompletaInstructores=new List<Instructor>()
             {
-                new Instructor(){Id=1,Nombre="Cristina",Apellido="Alonso",EnActividad=true ,Experiencia=3},
-                new Instructor(){Id=2,Nombre="Antonio",Apellido="Lopez",EnActividad=true ,Experiencia=1},
-                new Instructor(){Id=3,Nombre="Graciela",Apellido="Martinez",EnActividad=true ,Experiencia=2},
-                new Instructor(){Id=4,Nombre="Oscar",Apellido="Rossi",EnActividad=true ,Experiencia=4},
-                new Instructor(){Id=5,Nombre="Cynthia",Apellido="Ferrari",EnActividad=true ,Experiencia=3},
-                new Instructor(){Id=6,Nombre="Nadine",Apellido="Sharpe",EnActividad=true ,Experiencia=3},
-                new Instructor(){Id=7,Nombre="Walter",Apellido="Rodgers",EnActividad=true ,Experiencia=3},
-                new Instructor(){Id=8,Nombre="Nadine",Apellido="Melton",EnActividad=true ,Experiencia=3},
-                //new Instructor(){Id=9,Nombre="Maite",Apellido="Rodgers"},
+                new Instructor(){Id=1,LegajoVuelo=1346, Nombre="Cristina",Apellido="Alonso",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
+                new Instructor(){Id=2,LegajoVuelo=1346, Nombre="Antonio", Apellido="Lopez",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
+                new Instructor(){Id=3,LegajoVuelo=1346, Nombre="Graciela",Apellido="Martinez",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
+                new Instructor(){Id=4,LegajoVuelo=1346, Nombre="Oscar",Apellido="Rossi",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
+                new Instructor(){Id=5,LegajoVuelo=1346, Nombre="Cynthia",Apellido="Ferrari",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
+                new Instructor(){Id=6,LegajoVuelo=1346, Nombre="Nadine",Apellido="Sharpe",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
+                new Instructor(){Id=7,LegajoVuelo=1346, Nombre="Walter",Apellido="Rodgers",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
+                new Instructor(){Id=8,LegajoVuelo=1346, Nombre="Nadine",Apellido="Melton",DNI=134,Tra=1,EnActividad=true ,Hangar=1},
             };
         }
         public List<Instructor> MostrarTodos(){

@@ -28,7 +28,10 @@ namespace PrimerParcial.Models
         public int DNI {get; set;}
         public DateTime FechaExpedicion {get; set;}
         [Range(1,3)]
-        public int Experiencia{get; set;}
+        public int Tra{get; set;}
+
+        public int Hangar{get; set;}
+        
         public bool EnActividad {get; set;}
     }
 }
