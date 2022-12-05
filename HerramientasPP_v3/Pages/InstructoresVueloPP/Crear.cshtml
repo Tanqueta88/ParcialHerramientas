@@ -64,14 +64,12 @@
         <label class="form-control" >Se encuentra en acitividad?</label>
     </div>
 
-    <label for="Hangar-names">Hangar asignado:</label>
-        <select name="Hangar" id="Hangar-names">
-        <option value="norte">H1N</option>
-        <option value="sur">H2S</option>
-        <option value="este">H3E</option>
-        <option value="oeste">H4O</option>
-        <option value="central">H5C</option>
+    <div class="form-group">
+        <label class="form-label">Hangar</label>
+        <select asp-for="InstructorIng.Hangar" asp-items="Model.HangaresLista">
+
         </select>
+    </div>
 
     <div class="form-group">
         <input class="form-control"  type="submit" value="GRABAR" />
