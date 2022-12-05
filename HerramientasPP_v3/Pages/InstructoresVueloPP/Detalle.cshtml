@@ -1,7 +1,7 @@
 ﻿@page
 @model ProyHerramientas.Pages.Profesores.DetalleModel
 @functions{
-    void MostrarFechaNacimiento(DateTime fec){
+    void MostrarFechaExpedicion(DateTime fec){
         <span class="date">@fec.ToString("dd MMMM yyyy")</span>
     }
 }
@@ -15,15 +15,15 @@
     <div class="row g-0"> 
             <div class="col-md-8">
                 <div class="card-body">
-                    <p class="card-text"><span class="font-weight-bold">Fecha expedicion: </span>
-                    @{ MostrarFechaNacimiento( @Model.InstructorDetalle.FechaExpedicion);}</p>
+                    <p class="card-text"><span class="font-weight-bold">Fecha expedicion licencia: </span>
+                    @{ MostrarFechaExpedicion( @Model.InstructorDetalle.FechaExpedicion);}</p>
                     <p class="card-text"><span class="font-weight-bold">DNI:</span> 
                         @Model.InstructorDetalle.DNI</p>
                     <p class="card-text"><span class="font-weight-bold">Legajo:</span>
                         @Model.InstructorDetalle.LegajoVuelo</p>
                     <p class="card-text"><span class="font-weight-bold">T.R.A: </span> 
                         @Model.InstructorDetalle.Experiencia</p>
-                    <p class="card-text"><span class="font-weight-bold">Experiencia: </span> 
+                    <p class="card-text"><span class="font-weight-bold">Hangar asignado: </span> 
                         @Model.InstructorDetalle.Experiencia</p>
                     <p class="card-text"><span class="font-weight-bold">En Actividad: </span> 
                         @Model.InstructorDetalle.Experiencia</p>

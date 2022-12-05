@@ -26,23 +26,26 @@
             <span>NO ACTIVO</span>
         }
     }
-    void MostrarExperiencia(int nivelinstructor){
-        switch(nivelinstructor){
+    void MostrarHangar(int hangarasignado){
+        switch(hangarasignado){
             case 1:
-                <span>Piloto recreacional</span>
+                <span>H1N</span>
                  break;
             case 2:
-                <span>Piloto linea aerea</span> 
+                <span>H2S</span> 
                 break;
             case 3:
-                <span>Piloto militar</span>
+                <span>H3E</span>
                 break; 
             case 4:
-                <span>Piloto carga</span>
+                <span>H4O</span>
+                break; 
+            case 5:
+                <span>H5C</span>
                 break; 
         }
     }
-    void MostrarFechaNacimiento(DateTime fec){
+    void MostrarFechaExpedicion(DateTime fec){
         <span class="date">@fec.ToString("dd MMMM yyyy")</span>
     }
 }
@@ -71,7 +74,7 @@
                     Apellido-Ins dc
                 </a>
                 <th>En actividad</th>
-                <th>Experiencia</th>
+                <th>Hangar asignado</th>
             </tr> 
             <th></th>
         </th>
@@ -93,7 +96,7 @@
                     @{ MostrarEnActividad(@instructor.EnActividad);}
                 </td>
                 <td>
-                    @{ MostrarExperiencia(@instructor.Experiencia);}
+                    @{ MostrarHangar(@instructor.Experiencia);}
                 </td>
 
                 

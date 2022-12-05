@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj": {}
+    "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/PrimerParcial.csproj": {}
   },
   "projects": {
-    "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj": {
+    "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/PrimerParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj",
+        "projectUniqueName": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/PrimerParcial.csproj",
         "projectName": "PrimerParcial",
-        "projectPath": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj",
+        "projectPath": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/PrimerParcial.csproj",
         "packagesPath": "/home/jorge_linux/.nuget/packages/",
-        "outputPath": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/",
+        "outputPath": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jorge_linux/.nuget/NuGet/NuGet.Config"
