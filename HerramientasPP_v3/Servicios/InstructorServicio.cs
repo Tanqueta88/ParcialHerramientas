@@ -2,6 +2,21 @@ using PrimerParcial.Models;
 
 namespace PrimerParcial.Servicios
 {
+    public interface IHangarServicio{
+        List<Hangar> MostrarHangares();
+    }
+    public class HangarServicio :IHangarServicio{
+        public List<Hangar> MostrarHangares(){
+            return new List<Hangar>(){
+             new Hangar(){Id=1,Detalle="H1N"},
+             new Hangar(){Id=2,Detalle="H2S"},
+             new Hangar(){Id=3,Detalle="H3E"},
+             new Hangar(){Id=4,Detalle="H40"},
+             new Hangar(){Id=5,Detalle="H5C"},
+            };
+        }
+    }
+
     public interface IInstructorServicio{
         List<Instructor> MostrarTodos();
         void Agregar(Instructor instructornuevo);
