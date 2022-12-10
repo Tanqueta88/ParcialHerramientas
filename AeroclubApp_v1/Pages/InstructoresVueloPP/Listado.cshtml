@@ -1,0 +1,81 @@
+﻿@page
+@model PrimerParcial.Pages.InstructoresVueloPP.ListadoModel
+@using System.Threading.Tasks;
+@{
+
+}
+@functions{
+    void MostrarMateria(int materiaid){
+        switch(materiaid){
+            case 1:
+                <span>Herramientas</span>
+                break;
+            case 2:
+                <span>POO</span>
+                break;
+            case 3:
+                <span>WEB</span>
+                break;
+        }
+    }
+   async Task MostrarADistancia(bool distanc){
+        if(distanc){
+            <span>VIRTUAL</span>
+        }
+        else{
+            <span><img src="~/favicon.ico" class="rounded-circle"></span>
+        }
+    }
+    void MostrarFechaNacimiento(DateTime fec){
+        <span class="date">@fec.ToString("dd MMMM yyyy")</span>
+    }
+}
+<a asp-page="Crear" class="btn btn-success" > Nuevo Instructor </a>
+
+<form method="get" >
+    <input type="text" placeholder="Buscar Instructor por Nombre" name="FiltroNombre" />
+    <input type="text" placeholder="Buscar Instructor por Apellido " name="FiltroApellido" />
+    <input type="submit" class="btn btn-warning" value="Buscar" />
+</form>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr class="table-success">
+            <th>Nro</th>
+            <th>
+                <a asp-page="./Listado" asp-route-CampoOrden="@Model.NombreOrden">
+                    Nombre del instructor
+                </a>
+                
+            </th>
+            <th>
+                <a asp-page="./Listado" asp-route-CampoOrden="OrdenPorApellido">
+                    Apellido-Ins ac
+                </a>
+                <a asp-page="./Listado" asp-route-CampoOrden="OrdenPorApellidoDesc">
+                    Apellido-Ins dc
+                </a>
+        </tr> 
+    </thead>
+    <tbody>
+        @if (Model.NominaInstructores.Count == 0)
+        {
+            <tr class="badge bg-warning">
+                <td colspan="4"> No se encontraron instructores que coincidan con la busqueda</td>
+            </tr>
+        }
+        @foreach (var profe in Model.NominaInstructores)
+        {
+            <tr>
+                <td>@profe.Id</td>
+                <td><a asp-page="Detalle" asp-route-id="@profe.Id" >@profe.Nombre</a></td>
+                <td>@profe.Apellido</td>    
+                <td>
+                    <a asp-page="Editar" asp-route-id="@profe.Id" class="btn btn-primary">Modificar</a>
+                    <a asp-page="./Listado" asp-route-idBorrar="@profe.Id" asp-page-handler="Borrar" class="btn btn-danger" onclick="return confirm('¿Quiere eliminar?')" >Eliminar</a>
+                    <a asp-page="Detalle" asp-route-id="@profe.Id" class="btn btn-success">Detalle</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

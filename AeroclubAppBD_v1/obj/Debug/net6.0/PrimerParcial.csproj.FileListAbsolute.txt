@@ -1,0 +1,156 @@
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.csproj.AssemblyReference.cache
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.AssemblyInfoInputs.cache
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.AssemblyInfo.cs
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.csproj.CoreCompileInputs.cache
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.MvcApplicationPartsAssemblyInfo.cache
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cache
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cs
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/appsettings.Development.json
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/appsettings.json
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.staticwebassets.runtime.json
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.deps.json
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.runtimeconfig.json
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.dll
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.pdb
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/staticwebassets.build.json
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/staticwebassets.development.json
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/bundle/PrimerParcial.styles.css
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/projectbundle/PrimerParcial.bundle.scp.css
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.dll
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/refint/PrimerParcial.dll
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.pdb
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.genruntimeconfig.cache
+/home/qap03/Escritorio/ISTEA_CURSOS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/ref/PrimerParcial.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/appsettings.Development.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/appsettings.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.staticwebassets.runtime.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.deps.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.runtimeconfig.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.pdb
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.csproj.AssemblyReference.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.AssemblyInfoInputs.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.AssemblyInfo.cs
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.csproj.CoreCompileInputs.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.MvcApplicationPartsAssemblyInfo.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cs
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/staticwebassets.build.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/staticwebassets.development.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/bundle/PrimerParcial.styles.css
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/projectbundle/PrimerParcial.bundle.scp.css
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/refint/PrimerParcial.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.pdb
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.genruntimeconfig.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/ref/PrimerParcial.dll
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/appsettings.Development.json
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/appsettings.json
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.staticwebassets.runtime.json
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.deps.json
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.runtimeconfig.json
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.dll
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/bin/Debug/net6.0/PrimerParcial.pdb
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.csproj.AssemblyReference.cache
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.AssemblyInfoInputs.cache
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.AssemblyInfo.cs
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.csproj.CoreCompileInputs.cache
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.MvcApplicationPartsAssemblyInfo.cache
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cache
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cs
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/staticwebassets.build.json
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/staticwebassets.development.json
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/bundle/PrimerParcial.styles.css
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/scopedcss/projectbundle/PrimerParcial.bundle.scp.css
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.dll
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/refint/PrimerParcial.dll
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.pdb
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/PrimerParcial.genruntimeconfig.cache
+/home/qap03/Escritorio/Instruccion/CLASES_2DO CUATRIMESTRE/ISTEA_CURSOS/HERRAMIENTAS/HerramientasDeProgramacion/PrimerParcial/obj/Debug/net6.0/ref/PrimerParcial.dll
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/appsettings.Development.json
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/appsettings.json
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/PrimerParcial.staticwebassets.runtime.json
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/PrimerParcial
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/PrimerParcial.deps.json
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/PrimerParcial.runtimeconfig.json
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/PrimerParcial.dll
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/bin/Debug/net6.0/PrimerParcial.pdb
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.csproj.AssemblyReference.cache
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.AssemblyInfoInputs.cache
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.AssemblyInfo.cs
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.csproj.CoreCompileInputs.cache
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.MvcApplicationPartsAssemblyInfo.cache
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cache
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cs
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/staticwebassets.build.json
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/staticwebassets.development.json
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/scopedcss/bundle/PrimerParcial.styles.css
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/scopedcss/projectbundle/PrimerParcial.bundle.scp.css
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.dll
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/refint/PrimerParcial.dll
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.pdb
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/PrimerParcial.genruntimeconfig.cache
+/home/jorge_linux/VisualStudioProyects/PrimerParcialHerramientas/obj/Debug/net6.0/ref/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/appsettings.Development.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/appsettings.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/PrimerParcial.staticwebassets.runtime.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/PrimerParcial
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/PrimerParcial.deps.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/PrimerParcial.runtimeconfig.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/bin/Debug/net6.0/PrimerParcial.pdb
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.csproj.AssemblyReference.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.AssemblyInfoInputs.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.AssemblyInfo.cs
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.csproj.CoreCompileInputs.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.MvcApplicationPartsAssemblyInfo.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cs
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/staticwebassets.build.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/staticwebassets.development.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/scopedcss/bundle/PrimerParcial.styles.css
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/scopedcss/projectbundle/PrimerParcial.bundle.scp.css
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/refint/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.pdb
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/PrimerParcial.genruntimeconfig.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/Debug/net6.0/ref/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/appsettings.Development.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/appsettings.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/PrimerParcial.staticwebassets.runtime.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/PrimerParcial
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/PrimerParcial.deps.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/PrimerParcial.runtimeconfig.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/bin/Debug/net6.0/PrimerParcial.pdb
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.csproj.AssemblyReference.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.AssemblyInfoInputs.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.AssemblyInfo.cs
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.csproj.CoreCompileInputs.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.MvcApplicationPartsAssemblyInfo.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.RazorAssemblyInfo.cs
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/staticwebassets.build.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/staticwebassets.development.json
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/scopedcss/bundle/PrimerParcial.styles.css
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/scopedcss/projectbundle/PrimerParcial.bundle.scp.css
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/refint/PrimerParcial.dll
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.pdb
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/PrimerParcial.genruntimeconfig.cache
+/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/obj/Debug/net6.0/ref/PrimerParcial.dll
