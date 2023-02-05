@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj": {}
+    "/home/jorge_linux/VisualStudioProyects/Proyecto-Aeroclub/AeroclubApp_v3/PrimerParcial.csproj": {}
   },
   "projects": {
-    "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj": {
+    "/home/jorge_linux/VisualStudioProyects/Proyecto-Aeroclub/AeroclubApp_v3/PrimerParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj",
+        "projectUniqueName": "/home/jorge_linux/VisualStudioProyects/Proyecto-Aeroclub/AeroclubApp_v3/PrimerParcial.csproj",
         "projectName": "PrimerParcial",
-        "projectPath": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/PrimerParcial.csproj",
+        "projectPath": "/home/jorge_linux/VisualStudioProyects/Proyecto-Aeroclub/AeroclubApp_v3/PrimerParcial.csproj",
         "packagesPath": "/home/jorge_linux/.nuget/packages/",
-        "outputPath": "/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasPP_v3/obj/",
+        "outputPath": "/home/jorge_linux/VisualStudioProyects/Proyecto-Aeroclub/AeroclubApp_v3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jorge_linux/.nuget/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
         }
       }
     }
