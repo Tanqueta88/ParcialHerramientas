@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrimerParcial
 build_property.RootNamespace = PrimerParcial
-build_property.ProjectDir = /home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/
+build_property.ProjectDir = /home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1
+build_property.MSBuildProjectDirectory = /home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/Error.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/Index.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/InstructoresVueloPP/Crear.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/InstructoresVueloPP/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcmVzVnVlbG9QUC9DcmVhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/InstructoresVueloPP/Detalle.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/InstructoresVueloPP/Detalle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcmVzVnVlbG9QUC9EZXRhbGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/InstructoresVueloPP/Editar.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/InstructoresVueloPP/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcmVzVnVlbG9QUC9FZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/InstructoresVueloPP/Listado.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/InstructoresVueloPP/Listado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5zdHJ1Y3RvcmVzVnVlbG9QUC9MaXN0YWRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/Privacy.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/_ViewImports.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/_ViewStart.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge_linux/GIT_LOCAL/ParcialHerramientas/HerramientasSP_v1/Pages/Shared/_Layout.cshtml]
+[/home/jorge_linux/BodhiCarpetas/Desarrollo/VisualStudioProyects/Proyecto-Aeroclub/AeroclubAppBD_v1/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eum0hh01k8
